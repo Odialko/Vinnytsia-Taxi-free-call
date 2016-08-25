@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="texmMain">Таксі в м.Вінниця</string>
+    <string name="textSecond">Виклик на стаціонарний номер з мобільного - безкоштовно</string>
+    <string name="btn1">Приват такси</string>
+    <string name="btn2">15-50</string>
+    <string name="btn3">Рубін</string>
+    <string name="btn4">Элит-такси</string>
+    <string name="btn5">Блиц-такси</string>
+    <string name="btn6">Нове таксі</string>
+    <string name="btn7">Форсаж</string>
+    <string name="btn8">City</string>
+    <string name="btn9">Авеню</string>
+    <string name="btn10">Мобильное такси</string>
+    <string name="btn11">Love-такси</string>
+    <string name="btn12">Вымпел</string>
+</resources>
